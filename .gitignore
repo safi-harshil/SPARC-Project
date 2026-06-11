@@ -1,0 +1,61 @@
+# -------------------------
+# Python cache & build files
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# -------------------------
+# Local configuration / tunables
+# -------------------------
+# Prevent accidental commits of personal or system-specific settings
+tunables.py
+*.local.py
+*_local.py
+*config_local*.py
+
+# -------------------------
+# Logs & temporary outputs
+# -------------------------
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# -------------------------
+# Virtual environments
+# -------------------------
+.venv/
+venv/
+env/
+*.env
+
+# -------------------------
+# IDE / Editor artifacts
+# -------------------------
+.vscode/
+.idea/
+*.code-workspace
+
+# -------------------------
+# Optional data and generated outputs
+# -------------------------
+*.csv
+*.json
+*.mp4
+*.avi
+*.bag
+*.tiff
+*.png
+*.jpg
+*.jpeg
+output/
+runs/
+recordings/
+logs/
+
+#ignore the models directory if it contains large pre-trained models or checkpoints
+models/

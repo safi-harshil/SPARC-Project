@@ -1,0 +1,58 @@
+Camera Label: cam3
+Serial Number: 250122074372
+Firmware Version: 5.17.0.10
+USB Port ID: /sys/devices/pci0000:00/0000:00:14.0/usb2/2-1/2-1:1.0/video4linux/video0
+Product Line: D400
+
+[Sensor: Stereo Module]
+  exposure: 8500.0
+  gain: 16.0
+  enable_auto_exposure: 1.0
+  visual_preset: 0.0
+  laser_power: 150.0
+  emitter_enabled: 1.0
+  frames_queue_size: 16.0
+  asic_temperature: 26.0
+  error_polling_enabled: 1.0
+  projector_temperature: 26.0
+  output_trigger_enabled: 0.0
+  depth_units: 0.0010000000474974513
+  stereo_baseline: 49.981964111328125
+  inter_cam_sync_mode: 0.0
+  emitter_on_off: 0.0
+  global_time_enabled: 1.0
+  emitter_always_on: 0.0
+  hdr_enabled: 0.0
+  sequence_name: 0.0
+  sequence_size: 2.0
+  sequence_id: 0.0
+  auto_exposure_limit: 165000.0
+  auto_gain_limit: 248.0
+  auto_exposure_limit_toggle: 0.0
+  auto_gain_limit_toggle: 0.0
+
+[Sensor: RGB Camera]
+  backlight_compensation: 0.0
+  brightness: 0.0
+  contrast: 50.0
+  exposure: 166.0
+  gain: 64.0
+  gamma: 300.0
+  hue: 0.0
+  saturation: 64.0
+  sharpness: 50.0
+  white_balance: 4600.0
+  enable_auto_exposure: 1.0
+  enable_auto_white_balance: 1.0
+  frames_queue_size: 16.0
+  power_line_frequency: 3.0
+  auto_exposure_priority: 0.0
+  global_time_enabled: 1.0
+
+[Sensor: Motion Module]
+  frames_queue_size: 16.0
+  enable_motion_correction: 1.0
+  global_time_enabled: 1.0
+  gyro_sensitivity: 1.0
+
+[Active Streams]
